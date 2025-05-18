@@ -1,53 +1,49 @@
-# 👋 Olá, eu sou o João Paulo !
+## Oiii, eu sou o João Paulo Marques de Oliveira! 👨‍💻
 
-🎓 Estudante apaixonado por tecnologia, em constante aprendizado e sempre em busca de evolução pessoal e profissional.
-
----
-
-## 🧠 Sobre mim
-
-- 🏡 Natural de **Sabinópolis - MG**, vivi por muitos anos em **Governador Valadares - MG**.
-- 📚 Estudei do 7º ano do Ensino Fundamental até o 3º ano do Ensino Médio no **Colégio Escolápio Ibituruna**.
-- 💻 Entusiasta de programação e tecnologia. Mesmo sendo iniciante, sou dedicado e curioso — sempre buscando melhorar e aprender novas habilidades.
-- ✨ Acredito que o esforço contínuo e a paixão pelo que se faz são os principais ingredientes para o crescimento.
+Sou um estudante apaixonado por programação e tecnologia, sempre buscando aprender mais e evoluir. Ainda estou no início da jornada, mas cada dia é uma nova oportunidade de crescer e dar o meu melhor!
 
 ---
 
-## 🚀 O que estou aprendendo
+### 📍 De onde sou?
 
-Atualmente estou focado em:
-
-- Lógica de programação
-- Linguagens como **Java** e **C++** 
-- Estrutura de dados e algoritmos
-- Desenvolvimento de pequenos projetos para praticar o que aprendo
+- 🏡 Natural de **Sabinópolis - MG**
+- 🌆 Vivi muitos anos em **Governador Valadares - MG**
+- 🎓 Estudei do 7º ano do Fundamental até o 3º ano do Médio no **Colégio Escolápio Ibituruna**
 
 ---
 
-## 🎯 Objetivos
+### 💻 Atualmente estou aprendendo:
 
-- Contribuir com projetos open source no futuro
-- Criar soluções úteis com código limpo e bem estruturado
-- Aprimorar meu conhecimento em desenvolvimento de software
-- Compartilhar meu progresso e aprendizados com a comunidade
-
----
-
-## 💡 Curiosidades
-
-- Gosto de resolver problemas e entender como as coisas funcionam por trás do código.
-- Sempre procuro formas de tornar meu código mais organizado e eficiente.
-- Acredito que cada pequeno projeto é uma grande oportunidade de crescimento.
+<div style="display: inline_block"><br>
+  <img align="center" alt="JP-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="JP-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 ---
 
-## 📫 Como me encontrar
+### 🚀 Meus objetivos com a programação
 
-Você pode me encontrar aqui no GitHub acompanhando meus repositórios e projetos. Em breve, pretendo criar também um portfólio online para mostrar minhas conquistas e aprendizados.
+- Criar projetos simples e funcionais para praticar
+- Participar da comunidade e aprender com outros devs
+- Evoluir na lógica de programação e estrutura de dados
+- Contribuir futuramente com projetos open source
 
 ---
 
-🔧 *"Ainda estou começando, mas dou o meu melhor a cada passo. E cada linha de código é uma nova chance de evoluir."*
+### 📫 Como me encontrar
+
+<div> 
+  <a href="mailto:seuemailaqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
 
+### 🧠 Frase que me inspira
+
+> *"Não preciso ser o melhor, só preciso ser melhor do que ontem."*
+
+---
+
+⭐️ Obrigado por visitar meu perfil! Em breve, mais projetos e aprendizados estarão por aqui!
