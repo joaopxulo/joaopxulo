@@ -1,4 +1,4 @@
-## Oiii, eu sou o João Paulo Marques de Oliveira! 👨‍💻
+## Oiii, eu sou o João Paulo Marques! 👨‍💻
 
 Sou estudante de Ciências da Computação, apaixonado por programação e tecnologia, sempre buscando aprender mais e evoluir. Ainda estou no início da jornada, mas cada dia é uma nova oportunidade de crescer e dar o meu melhor!
 
