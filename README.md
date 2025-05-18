@@ -18,7 +18,7 @@
 Atualmente estou focado em:
 
 - Lógica de programação
-- Linguagens como **Java**, **C++** e **Python**
+- Linguagens como **Java** e **C++** 
 - Estrutura de dados e algoritmos
 - Desenvolvimento de pequenos projetos para praticar o que aprendo
 
