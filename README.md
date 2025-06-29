@@ -6,13 +6,12 @@ Sou estudante de Ciências da Computação, apaixonado por programação e tecno
 
 ### 📍 De onde sou?
 
-- 🏡 Natural de **Sabinópolis - MG**
-- 🌆 Vivi muitos anos em **Governador Valadares - MG**
-- 🎓 Estudei do 7º ano do Fundamental até o 3º ano do Médio no **Colégio Escolápio Ibituruna**
+- 🏡 Natural de **Guanhães - MG**
+- 🌆 Vivi muitos anos em **Governador Valadares - MG** e considero minha cidade
 
 ---
 
-### 💻 Atualmente estou aprendendo:
+### 💻 Linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JP-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
