@@ -6,7 +6,7 @@ Computer Science student, I’m constantly learning and building to improve my s
 
 ### 📍Location
 
-- 🌆 **Governador Valadares - MG** 
+- 🌆 **Governador Valadares - MG** --> **Rio Pomba - MG** 
 
 ---
 
