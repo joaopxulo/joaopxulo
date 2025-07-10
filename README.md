@@ -1,4 +1,4 @@
-## Oiii, eu sou o João Paulo Marques! 👨‍💻
+## Hello friend, eu sou o João Paulo Marques! 👨‍💻
 
 Sou estudante de Ciências da Computação, apaixonado por programação e tecnologia, sempre buscando aprender mais e evoluir. Ainda estou no início da jornada, mas cada dia é uma nova oportunidade de crescer e dar o meu melhor!
 
@@ -6,8 +6,7 @@ Sou estudante de Ciências da Computação, apaixonado por programação e tecno
 
 ### 📍 De onde sou?
 
-- 🏡 Natural de **Guanhães - MG**
-- 🌆 Vivi muitos anos em **Governador Valadares - MG** e considero minha cidade
+- 🌆 **Governador Valadares - MG** 
 
 ---
 
@@ -29,7 +28,7 @@ Sou estudante de Ciências da Computação, apaixonado por programação e tecno
 
 ---
 
-### 📲 Vamos nos conectar?
+### 📲 Contato :
 
 <div>
   <a href="https://instagram.com/joaopxulo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -37,4 +36,4 @@ Sou estudante de Ciências da Computação, apaixonado por programação e tecno
 
 ---
 
-⭐️ Obrigado por visitar meu perfil! Em breve, mais projetos e aprendizados estarão por aqui!
+⭐️ Obrigado por visitar meu perfil!
