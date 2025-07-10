@@ -1,16 +1,16 @@
-## Hello friend, eu sou o João Paulo Marques! 👨‍💻
+## Hello friend, João Paulo Marques here ! 👨‍💻
 
-Sou estudante de Ciências da Computação, apaixonado por programação e tecnologia, sempre buscando aprender mais e evoluir. Ainda estou no início da jornada, mas cada dia é uma nova oportunidade de crescer e dar o meu melhor!
+Computer Science student, I’m constantly learning and building to improve my skills and contribute to the tech community.
 
 ---
 
-### 📍 De onde sou?
+### 📍Location
 
 - 🌆 **Governador Valadares - MG** 
 
 ---
 
-### 💻 Linguagens:
+### 💻 Languages :
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JP-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -19,16 +19,16 @@ Sou estudante de Ciências da Computação, apaixonado por programação e tecno
 
 ---
 
-### 🚀 Meus objetivos com a programação
+### 🚀 Goals
 
-- Criar projetos simples e funcionais para praticar
-- Participar da comunidade e aprender com outros devs
-- Evoluir na lógica de programação e estrutura de dados
-- Contribuir futuramente com projetos open source
+- Develop clean, functional applications
+- Improve in algorithms and data structures
+- Collaborate with open source projects
+- Grow as a full-stack developer
 
 ---
 
-### 📲 Contato :
+### 📲 Contact :
 
 <div>
   <a href="https://instagram.com/joaopxulo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -36,4 +36,4 @@ Sou estudante de Ciências da Computação, apaixonado por programação e tecno
 
 ---
 
-⭐️ Obrigado por visitar meu perfil!
+⭐️ Thanks for visiting!
